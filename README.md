@@ -12,11 +12,11 @@ Demo: https://todo-cosbe.netlify.app/
 
 ## Tech stack
 
-Vite - Used to get started with ReactJS configurations
-ReactJs - Framework used to create the application
-Redux Toolkit - Framework used to maintain the global state in React app
-Mantine - Framework used for building the components in React
-Axios - Used for making network calls
+- Vite - Used to get started with ReactJS configurations
+- ReactJs - Framework used to create the application
+- Redux Toolkit - Framework used to maintain the global state in React app
+- Mantine - Framework used for building the components in React
+- Axios - Used for making network calls
 
 ## Get started
 
