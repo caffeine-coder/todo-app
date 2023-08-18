@@ -1,0 +1,74 @@
+.todocardpaper {
+	margin-top: 0.5rem;
+}
+
+.todocard {
+	display: flex;
+	justify-content: space-between;
+}
+
+.deleteicon {
+	color: red;
+	font-size: 1.3rem;
+	cursor: pointer;
+}
+
+.editicon {
+	font-size: 1.1rem;
+	cursor: pointer;
+	margin-right: 1rem;
+}
+
+.todoright {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.todotitle {
+	margin-bottom: 0.5rem;
+}
+
+.tododesc {
+	text-align: justify;
+	margin-right: 2rem;
+}
+
+.todostatus {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: 1rem;
+}
+
+.statustext {
+	margin-right: 0.5rem;
+	font-size: 0.8rem;
+}
+
+.statuspending {
+	color: orangered;
+	margin-top: 0.2rem;
+}
+
+.statuscompleted {
+	color: green;
+}
+
+.statuspending,
+.statuscompleted,
+.statustusnew {
+	margin-right: 1rem;
+}
+
+.datetime {
+	margin-left: 0.4rem;
+}
+
+.deleteoverlay {
+	margin-top: 3rem;
+}
+
+.modifiedlabel {
+	margin-left: 0.5rem;
+}

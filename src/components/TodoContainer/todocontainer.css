@@ -1,0 +1,56 @@
+.todocontainer {
+	height: 90vh;
+	width: 40rem;
+}
+
+.todocardcontainer {
+	display: flex;
+	flex-direction: column;
+	background-color: #c8f6c8;
+	margin-top: 1rem;
+	height: 100%;
+	overflow: auto;
+}
+
+h2 {
+	align-self: center;
+	color: teal;
+}
+
+.notasks {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.inputform {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.submitbutton {
+	margin-top: 1rem;
+}
+
+.alertbanner {
+	width: 50%;
+	align-self: center;
+}
+
+.iconmeaning {
+	display: flex;
+}
+
+.title {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.pending {
+	display: flex;
+	align-items: center;
+	margin-right: 1rem;
+}
